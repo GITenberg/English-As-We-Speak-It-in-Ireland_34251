@@ -1,0 +1,32 @@
+_repo: English-As-We-Speak-It-in-Ireland_34251
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Joyce, P. W. (Patrick Weston)
+    alias: Joyce, Patrick Weston
+    birthdate: 1827
+    deathdate: 1914
+    gutenberg_agent_id: '36406'
+    url: http://www.gutenberg.org/2009/agents/36406
+    wikipedia: http://en.wikipedia.org/wiki/Patrick_Weston_Joyce
+description: ''
+gutenberg_issued: '2010-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34251'
+  lccn: '12009872'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Languages'
+- !lcsh 'English language -- Dialects -- Ireland'
+- !lcc 'PE'
+- !lcsh 'Ireland -- Social life and customs'
+- !lcsh 'Popular culture -- Ireland'
+title: English As We Speak It in Ireland
+url: http://www.gutenberg.org/ebooks/34251
